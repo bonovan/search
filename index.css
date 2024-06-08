@@ -1,7 +1,9 @@
-#hyperlinks {
+.hyperlinks {
     text-align: end;
-    color: gray;
 }
-form {
+
+.search_bar {
     text-align: center;
+    vertical-align: middle;
+    font-family: Arial, Helvetica, sans-serif;
 }
