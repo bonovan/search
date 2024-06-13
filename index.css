@@ -14,19 +14,6 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.blue_button {
-    border: none;
-    background-color: powderblue;
-    color: white;
-    text-align: center;
-    width: 120px;
-    height: 30px;
-}
-
-.blue_button:hover {
-    background-color:rgb(121, 219, 236)
-}
-
 .gray_button {
     display: block;
     margin-left: auto;
@@ -44,4 +31,32 @@
 
 .gray_button:hover {
     background-color: rgb(180, 180, 180);
+}
+
+.blue_button {
+    border: none;
+    background-color: powderblue;
+    color: white;
+    text-align: center;
+    width: 120px;
+    height: 30px;
+}
+
+.blue_button:hover {
+    background-color:rgb(121, 219, 236)
+}
+
+
+.goog {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+
+    max-width: 300px;
+}
+
+#small_google_logo {
+    max-width: 75px;
+    text-align: left;
 }
